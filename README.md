@@ -4,3 +4,5 @@ it handles the authentication
 run yarn install
 ## running the server 
 run yarn start 
+### rquires mongobd 
+install mongodb
